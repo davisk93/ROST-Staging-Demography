@@ -1,6 +1,6 @@
 # Residency, recruitment, and staging duration of hatch-year roseate terns (*Sterna dougallii*) at a major tourist destination during the southward pre-migratory staging period 
 
-Davis, K.L., S.M. Karpanty, J.A. Spendelow, J.B. Cohen, M.A. Althouse, K.C. Parsons, C.F. Luttazi, Daniel H. Catlin, Daniel Gibson. In Prep. Begging behavior as an honest signal of need and parent-offspring association in roseate terns. Prepared for Population Ecology.
+Davis, K.L., S.M. Karpanty, J.A. Spendelow, J.B. Cohen, M.A. Althouse, K.C. Parsons, C.F. Luttazi, Daniel H. Catlin, Daniel Gibson. In Review. Begging behavior as an honest signal of need and parent-offspring association in roseate terns. Population Ecology.
 
 ### Please contact first author for questions about data or code: Kayla Davis (davisk93@msu.edu)
 _________________________________________________________________________________________________________________________________________
