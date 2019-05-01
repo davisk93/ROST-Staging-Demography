@@ -1,6 +1,8 @@
-# Residency, recruitment, and staging duration of hatch-year roseate terns (*Sterna dougallii*) at a major tourist destination during the southward pre-migratory staging period 
+# Residency, recruitment, and staging duration of hatch-year roseate terns (*Sterna dougallii*) during the pre-migratory staging period 
 
-Davis, K.L., S.M. Karpanty, J.A. Spendelow, J.B. Cohen, M.A. Althouse, K.C. Parsons, C.F. Luttazi, Daniel H. Catlin, Daniel Gibson
+### Davis, K.L., S.M. Karpanty, J.A. Spendelow, J.B. Cohen, M.A. Althouse, K.C. Parsons, C.F. Luttazi, Daniel H. Catlin, Daniel Gibson
+
+### Code/Data DOI: 
 
 ### Please contact first author for questions about data or code: Kayla Davis (davisk93@msu.edu)
 _________________________________________________________________________________________________________________________________________
