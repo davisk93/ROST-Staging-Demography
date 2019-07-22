@@ -2,7 +2,7 @@
 
 ### Davis, K.L., S.M. Karpanty, J.A. Spendelow, J.B. Cohen, M.A. Althouse, K.C. Parsons, C.F. Luttazi, Daniel H. Catlin, Daniel Gibson
 
-### Code/Data DOI: 
+### Code/Data DOI: <a href="https://zenodo.org/badge/latestdoi/151756110"><img src="https://zenodo.org/badge/151756110.svg" alt="DOI"></a>
 
 ### Please contact first author for questions about data or code: Kayla Davis (davisk93@msu.edu)
 _________________________________________________________________________________________________________________________________________
